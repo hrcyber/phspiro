@@ -1,6 +1,0 @@
-docxcompose==1.4.0
-docxtpl==0.16.8
-pandas==2.2.2
-pillow==10.3.0
-streamlit==1.40.2
-
