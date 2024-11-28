@@ -1,6 +1,6 @@
 import streamlit as st
 import sqlite3
-from docx import Document
+from docx import *
 from docxtpl import DocxTemplate
 import pandas as pd
 from PIL import Image
