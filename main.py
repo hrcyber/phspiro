@@ -1,5 +1,6 @@
 import streamlit as st
 import sqlite3
+from docx import *
 import pandas as pd
 from PIL import Image
 rr = Image.open("sr.jpg")
