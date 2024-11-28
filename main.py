@@ -1,10 +1,7 @@
 import streamlit as st
 import sqlite3
-from docx import Document
 import pandas as pd
 from PIL import Image
-
-
 rr = Image.open("sr.jpg")
 srw = Image.open("sr2.jpg")
 fr = Image.open("fr.jpg")
